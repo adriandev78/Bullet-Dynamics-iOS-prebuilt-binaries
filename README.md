@@ -1,2 +1,2 @@
-# Bullet-Dynamics-iOS-prebuilt-binaries-
+# Bullet-Dynamics-iOS-prebuilt-binaries
 Universal Binaries for Bullet Dynamics iOS
